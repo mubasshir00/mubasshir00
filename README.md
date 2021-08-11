@@ -10,7 +10,10 @@ Here are some ideas to get you started:
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about ...
-- 📫 How to reach me: [Twitter @Mubassh35613287](https://twitter.com/Mubassh35613287) [Linkedin Mubasshir Ahmed](https://www.linkedin.com/in/mubasshir-ahmed-696378137/)
-- 😄 Pronouns: ...
+- 📫 How to reach me: 
+- [Twitter @Mubassh35613287](https://twitter.com/Mubassh35613287)
+-  [Linkedin Mubasshir Ahmed](https://www.linkedin.com/in/mubasshir-ahmed-696378137/)
+- Personal Blog :
+- [Mubasshir Ahmed](https://hashnode.com/@mubasshir00)
 - ⚡ Fun fact: ...
 
