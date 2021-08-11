@@ -10,8 +10,8 @@
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=mubasshir00&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
-">
+[![Mubasshir's GitHub stats](https://github-readme-stats.vercel.app/api?username=mubasshir00)](https://github.com/mubasshir00/github-readme-stats)
+
 - 💬 Ask me about ...
 - 📫 How to reach me: 
 - [Twitter @Mubassh35613287](https://twitter.com/Mubassh35613287)
