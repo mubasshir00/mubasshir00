@@ -9,8 +9,8 @@
 - 🌱 I’m currently learning ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mubasshir00&layout=compact&theme=nightowl&show_icons=true)](https://github.com/mubasshir00/github-readme-stats)
-[![Mubasshir's GitHub stats](https://github-readme-stats.vercel.app/api?username=mubasshir00&theme=nightowl&show_icons=true)](https://github.com/mubasshir00/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mubasshir00&layout=compact&theme=graywhite&show_icons=true)](https://github.com/mubasshir00/github-readme-stats)
+[![Mubasshir's GitHub stats](https://github-readme-stats.vercel.app/api?username=mubasshir00&theme=graywhite&show_icons=true)](https://github.com/mubasshir00/github-readme-stats)
 
 - 💬 Ask me about JavaScript
 - 📫 How to reach me: 
