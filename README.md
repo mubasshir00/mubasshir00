@@ -12,7 +12,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mubasshir00&layout=compact&theme=nightowl&show_icons=true)](https://github.com/mubasshir00/github-readme-stats)
 [![Mubasshir's GitHub stats](https://github-readme-stats.vercel.app/api?username=mubasshir00&theme=nightowl&show_icons=true)](https://github.com/mubasshir00/github-readme-stats)
 
-- 💬 Ask me about ...
+- 💬 Ask me about JavaScript
 - 📫 How to reach me: 
 - [Twitter @Mubassh35613287](https://twitter.com/Mubassh35613287)
 -  [Linkedin Mubasshir Ahmed](https://www.linkedin.com/in/mubasshir-ahmed-696378137/)
