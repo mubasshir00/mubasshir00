@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 - [Twitter @Mubassh35613287](https://twitter.com/Mubassh35613287)
 -  [Linkedin Mubasshir Ahmed](https://www.linkedin.com/in/mubasshir-ahmed-696378137/)
-- Personal Blog :
-- [Mubasshir Ahmed](https://hashnode.com/@mubasshir00)
+- Personal Blog : [Mubasshir Ahmed](https://hashnode.com/@mubasshir00)
 - ⚡ Fun fact: ...
 
