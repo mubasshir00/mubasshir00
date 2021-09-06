@@ -20,7 +20,7 @@
     <img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png">
 </code>
 <code>
-    <img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/nestjs/nestjs.png">
+    <img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/react-native/react-native.png">
 </code>
 <code>
     <img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">
