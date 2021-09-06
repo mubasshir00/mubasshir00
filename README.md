@@ -10,7 +10,6 @@
 
 ### 👋 Hi there, I'm Mubasshir Ahmed
 
-Self-taught programmer, quick learner & Full Stack Software Developer with a can-do attitude.
 
 ### Technology Stack:
 
