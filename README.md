@@ -45,8 +45,9 @@ I am a Software Engineer and Researcher <img src="https://media.giphy.com/media/
 ### 🔥 &nbsp; My Stats :
 
 <div align="center">
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
-
+    <img src="https://github-readme-stats.vercel.app/api?username=mubasshir00&show_icons=true&count_private=true&theme=nightowl" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubasshir00&theme=nightowl" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=mubasshir00&theme=nightowl" />
   
 </div>
 
