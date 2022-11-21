@@ -14,7 +14,13 @@ I am a Software Engineer and Researcher <img src="https://media.giphy.com/media/
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 🌱 Exploring Cryptography , Blockchain and NLP.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/Mubasshir-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mubasshir-ahmed-696378137/)
+
+[LinkedIn <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin"/>](https://www.linkedin.com/in/mubasshir-ahmed-696378137/)
+**|**
+[Twitter <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="twitter"/>](https://twitter.com/Mubassh35613287)
+**|**
+[Stack Overflow <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" alt="stackoverflow"/>](https://stackoverflow.com/users/8407666/mubasshir00)
+**|**
 
 ---
 
