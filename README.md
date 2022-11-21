@@ -57,10 +57,10 @@ I am a Software Engineer and Researcher <img src="https://media.giphy.com/media/
 />
 <img src="https://github-readme-stats.vercel.app/api?username=mubasshir00&show_icons=true" />
 </picture>
-    
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mubasshir00&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mubasshir00&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
