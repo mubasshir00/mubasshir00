@@ -41,23 +41,10 @@ I am a Software Engineer and Researcher <img src="https://media.giphy.com/media/
 
 ### 🔥 &nbsp; My Stats :
 
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mubasshir00&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mubasshir00" />  </p>
 
-<div align="center">
-  <picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=mubasshir00&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=mubasshir00&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=mubasshir00&show_icons=true" />
-</picture>
-  
-</div>
-
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mubasshir00&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)</div>
+<p align="center "  >
+                <img  width="48%"
+               src="https://github-readme-stats.vercel.app/api?username=mubasshir00&show_icons=true&locale=en&theme=tokyonight" alt="mubasshir00" />  &nbsp; &nbsp; 
+        <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mubasshir00&&theme=tokyonight" alt="mubasshir00"  /></p>
 
