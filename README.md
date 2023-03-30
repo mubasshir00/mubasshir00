@@ -20,7 +20,8 @@ I am a Software Engineer and Researcher <img src="https://media.giphy.com/media/
 **|**
 [Stack Overflow <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" alt="stackoverflow"/>](https://stackoverflow.com/users/8407666/mubasshir00)
 **|**
-
+[Git_Lab <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" alt="stackoverflow"/>](https://gitlab.com/mubasshir00)
+**|**
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
