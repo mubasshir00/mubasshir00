@@ -11,8 +11,8 @@
 
 A Software Engineer and Researcher <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.
 
-- 🔭 I’m working as a Software Engineer and contributing to backend for developing web applications.
-- 🌱 Exploring Cryptography , Blockchain and NLP.
+- 🔭 I’m working as a Software Engineer .
+- 🌱 Exploring Cryptography , Blockchain and NLP , XAI , Cyber Security.
 
 [LinkedIn <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin"/>](https://www.linkedin.com/in/mubasshir-ahmed-696378137/)
 **|**
