@@ -9,7 +9,7 @@
 
 ### &nbsp;About Me :
 
-A Software Engineer and Researcher <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.
+A Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.
 
 - 🔭 I’m working as a Software Engineer .
 - 🌱 Exploring Cryptography , Blockchain and NLP , XAI , Cyber Security.
